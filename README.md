@@ -3,8 +3,14 @@
 Inspiration:
 [Instagram Video](https://www.instagram.com/reels/DWB_tcnkTDL/) 
 
-[![Resultado:]([https://tiktokcdn.com](https://raw.githubusercontent.com/DamianRincon/login_animation/refs/heads/main/Captura%20de%20pantalla%202026-05-21%20a%20la(s)%2017.02.38.png))]([https://tiktok.com](https://www.tiktok.com/@damianrc.dev/video/7642224627791498514?is_from_webapp=1&sender_device=pc&web_id=7603487706949191189))
 
+
+<div align="center">
+  Resultado
+  <a href="https://www.tiktok.com/@damianrc.dev/video/7642224627791498514?is_from_webapp=1&sender_device=pc&web_id=7603487706949191189">
+    <img src="https://github.com/DamianRincon/login_animation/blob/2ed4d3c4ea545ea6f56242b0996675d926856cb9/Captura%20de%20pantalla%202026-05-21%20a%20la(s)%2017.02.38.png" alt="¡Mira este video en TikTok!" width="300" />
+  </a>
+</div>
 
 ## Getting Started
 
