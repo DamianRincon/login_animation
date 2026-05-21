@@ -1,6 +1,10 @@
-# example_login
+# Login example animation
 
-A new Flutter project.
+Inspiration:
+[Instagram Video](https://www.instagram.com/reels/DWB_tcnkTDL/) 
+
+[![Resultado:]([https://tiktokcdn.com](https://raw.githubusercontent.com/DamianRincon/login_animation/refs/heads/main/Captura%20de%20pantalla%202026-05-21%20a%20la(s)%2017.02.38.png))]([https://tiktok.com](https://www.tiktok.com/@damianrc.dev/video/7642224627791498514?is_from_webapp=1&sender_device=pc&web_id=7603487706949191189))
+
 
 ## Getting Started
 
